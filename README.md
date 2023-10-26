@@ -5,8 +5,9 @@
 2. CSS
 3. JavaScript
 4. React
-
-- Node JS, Express JS and MongoDb is used for Backend server which is deployed on Vercel.
+5. Node JS
+6. Express JS
+7. MongoDb
 
 ## Features:
 1. User Authentication (Signup, Login and Logout)
